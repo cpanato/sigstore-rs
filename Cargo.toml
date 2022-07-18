@@ -21,7 +21,7 @@ lazy_static = "1.4.0"
 oci-distribution = { git = "https://github.com/krustlet/oci-distribution", rev = "0f717968093a5415f428503d741dedf24ea97948", default-features = false }
 #oci-distribution = { version = "0.8.1", default-features = false }
 olpc-cjson = "0.1.1"
-open = "2.0.2"
+open = "3.0.2"
 openidconnect = { version = "2.2.0", default-features = false, features = [ "reqwest" ] }
 pem = "1.0.2"
 picky = { version = "7.0.0-rc.2", default-features = false, features = [ "x509" ] }
